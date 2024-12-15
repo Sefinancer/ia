@@ -1,3 +1,67 @@
+Fiche descriptive : Assistant IA pour préparer les levées de fonds
+
+📌 Présentation
+
+Notre solution d'intelligence artificielle personnalisée est conçue pour aider les entrepreneurs à structurer et optimiser leurs pitchs, documents et interactions avec les investisseurs. Elle agit comme un coach stratégique et un outil d’automatisation, vous permettant de gagner du temps tout en maximisant vos chances de convaincre vos investisseurs.
+
+
+---
+
+🚀 Bénéfices pour les entrepreneurs
+
+1. Gagnez du temps avec des outils automatisés
+
+Création instantanée de documents : Génération de pitch decks, business plans et résumés exécutifs sur mesure.
+
+Organisation simplifiée : Construction d’une data room structurée selon les attentes des investisseurs, prête à partager en quelques clics.
+
+Analyse rapide : Vérification automatique de la cohérence des données financières et des métriques clés (ARR, CAC, LTV…).
+
+
+2. Augmentez vos chances de réussite
+
+Pitch optimisé : Structuration claire et logique grâce au cadre MECE, pour rendre vos arguments percutants et mémorables.
+
+Simulations et feedback : Entraînez-vous avec des simulations de questions/réponses pour anticiper les attentes des investisseurs.
+
+Recommandations stratégiques : Propositions d’amélioration pour adapter votre discours et vos documents à chaque type d’investisseur.
+
+
+3. Simplifiez la gestion des relations investisseurs
+
+Suivis automatisés : Rédaction d’e-mails personnalisés pour relancer efficacement vos interlocuteurs.
+
+Tracking des priorités : Aidez les investisseurs à comprendre rapidement vos points forts en mettant en avant les indicateurs clés et les résultats probants.
+
+
+4. Maximisez l’impact de vos levées de fonds
+
+Projection ROI convaincante : Création de modèles financiers pour démontrer le potentiel de croissance et les retours sur investissement attendus.
+
+Différenciation : Mettez en avant les avantages compétitifs de votre équipe, de votre produit et de votre marché grâce à des suggestions narratives impactantes.
+
+
+
+---
+
+🎯 Pourquoi choisir notre GPT ?
+
+Fiabilité et précision : Basé sur les meilleures pratiques des investisseurs de renom.
+
+Personnalisation : Adapté à votre secteur, à votre stade de développement et aux attentes spécifiques des VCs.
+
+Accessibilité : Un assistant 24/7 qui vous accompagne à chaque étape de votre levée de fonds.
+
+
+
+---
+
+📞 Prêt à transformer vos interactions avec les investisseurs ?
+
+Contactez-nous dès maintenant pour découvrir comment notre GPT peut vous aider à sécuriser vos financements et à accélérer votre croissance.
+
+
+
 # identité de marque
 
 ## Introduction
